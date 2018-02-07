@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/miguelst1/DAW1-ED-Pruebas-Ejemplo1.svg?branch=master)](https://travis-ci.org/miguelst1/DAW1-ED-Pruebas-Ejemplo1)
 
+[![codecov](https://codecov.io/gh/miguelst1/DAW1-ED-Pruebas-Ejemplo1/branch/master/graph/badge.svg)](https://codecov.io/gh/miguelst1/DAW1-ED-Pruebas-Ejemplo1)
+
 ## Pruebas unitarias en **Java** con **JUnit4** 
 
 ### Código a testear (pruebas de unidad)
