@@ -1,6 +1,6 @@
 # DAW1-ED-Pruebas-Ejemplo1
 
-https://travis-ci.org/miguelst1/DAW1-ED-Pruebas-Ejemplo1.svg?branch=master
+[![Build Status](https://travis-ci.org/miguelst1/DAW1-ED-Pruebas-Ejemplo1.svg?branch=master)](https://travis-ci.org/miguelst1/DAW1-ED-Pruebas-Ejemplo1)
 
 ## Pruebas unitarias en **Java** con **JUnit4** 
 
